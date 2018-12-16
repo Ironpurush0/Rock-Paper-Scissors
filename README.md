@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-This is a basic javascript game for beginners or people who wanna use their basic knowledge of js.I didn't really worked on the ui as i was also practicing some javascript but who ever wanna use it can play around with it.
+This is a basic javascript game for beginners or people who wanna use their basic knowledge of js.I didn't really worked on the ui as i was also practicing some javascript but who ever wanna use it can play around with it.I have now added the functionality where the game gives you the winnner when the score will get 10 but i want to implement a button which restarts the game from 0 score again.Can anyone help?
